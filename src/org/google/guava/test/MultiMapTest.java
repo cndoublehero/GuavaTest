@@ -124,5 +124,4 @@ public class MultiMapTest {
 			map.put(key, map1);
 		}
 	}
-
 }
